@@ -31,7 +31,7 @@ const FrontSection = () => {
           <AiFillYoutube className="cursor-pointer hover:text-red-500 ease-out duration-500" />
         </a>
       </div>
-      <div className="relative mx-auto bg-gradient-to-b from-teal-500 rounded-full w-80 h-80 mt-10 overflow-hidden md:h-96 md:w-96 sm:h-55 sm:w-55">
+      <div className="relative mx-auto bg-gradient-to-b from-teal-500 rounded-full w-80 h-80 mt-10 overflow-hidden md:h-96 md:w-96 sm:h-55 sm:w-55" id="mainImg">
         <Image src={logo} alt="image" layout="fill" objectFit="cover" />
       </div>
     </>
