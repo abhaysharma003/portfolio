@@ -4,7 +4,7 @@ import {
   AiFillYoutube,
 } from "react-icons/ai";
 import Image from "next/image";
-import logo from "../public/logo.JPG";
+import logo from "../public/logo.jpg";
 const FrontSection = () => {
   return (
     <>
